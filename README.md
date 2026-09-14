@@ -1,18 +1,35 @@
-# Keys@workspace:~$ ./init_profile 👋
+<!-- Header ala Terminal / Command Line -->
+## Fyy@workspace:~$ ./init_profile 👋
 
-## <span style="color: #7b2cbf;">Automation, license flows, and native helpers</span>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&pause=1000&color=9A00F7&multiline=true&width=435&lines=Building+private+tools+that+actually+ship;Clean+system+for+repeatable+workflow" alt="Typing SVG" /></a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://demolab.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://demolab.com">
+  <img alt="Typing SVG" src="https://demolab.com">
+</picture>
 
-<p align="left">
-  <img src="https://shields.io" alt="GitHub">
-  <img src="https://shields.io" alt="Discord">
-  <img src="https://shields.io" alt="Focus">
-  <img src="https://shields.io" alt="Private Systems">
-  <img src="https://shields.io" alt="Mode">
-  <img src="https://shields.io" alt="Crafting Cool Systems">
-</p>
+<br/>
 
-* Yo, I'm Keys
-* I build private tools, automation systems, and license-managed platforms
-* My work blends **Luau, Lua, TypeScript, JavaScript, C, and C++**
-* I like building route tooling, native launchers, runtime helpers, and backend validation flows
-* Most of what I ship is made for **real usage**, not just one-time demos
+<!-- Tombol Badges Media Sosial / Kontak -->
+[![GitHub](https://shields.io)](https://github.com)
+[![Discord](https://shields.io)](https://discord.gg)
+[![Focus](https://shields.io)](https://github.com)
+
+<br/>
+
+<!-- Bagian Deskripsi Diri -->
+* 📌 **Yo, I'm Fyy**
+* 🛠️ I build private tools, automation systems, and license-managed platforms
+* 💻 My work blends Luau, Lua, TypeScript, JavaScript, C, and C++
+* 🔍 I like building route tooling, native launchers, runtime helpers, and backend validation flows
+* 🚀 Most of what I ship is made for real usage, not just one-time demos
+
+---
+
+### Stack 🛠️
+<!-- Badges untuk Skill / Bahasa Pemrograman -->
+![Lua](https://shields.io)
+![TypeScript](https://shields.io)
+![JavaScript](https://shields.io)
+![C++](https://shields.io++
+-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
