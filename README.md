@@ -2,18 +2,6 @@
 ## Keys@workspace:~$ ./init_profile 👋
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=32&pause=1000&color=9A00F7&center=true&vCenter=true&random=true&width=435&lines=Building+private+tools+that+actually+ship;Clean+system+for+repeatable+workflow" alt="Typing SVG" /></a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://demolab.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://demolab.com">
-  <img alt="Typing SVG" src="https://demolab.com">
-</picture>
-
-<br/>
-
-<!-- Tombol Badges Media Sosial / Kontak -->
-[![GitHub](https://shields.io)](https://github.com)
-[![Discord](https://shields.io)](https://discord.gg)
-[![Focus](https://shields.io)](https://github.com)
 
 <br/>
 
