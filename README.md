@@ -2,8 +2,8 @@
 
 ### Automation, license flows, and native helpers
 <p align="left">
-   <a href="[URL_GITHUB_ANDA](https://github.com/didiihamdi)"><img src="https://shields.io" alt="GitHub"></a>
-  <a href="[URL_DISCORD_ANDA](https://discord.com/channels/@me)"><img src="https://shields.io" alt="Discord"></a>
+  <a href="URL_GITHUB_ANDA"><img src="https://shields.io" alt="GitHub"></a>
+  <a href="URL_DISCORD_ANDA"><img src="https://shields.io" alt="Discord"></a>
   <img src="https://shields.io" alt="Focus">
   <img src="https://shields.io" alt="Private Systems">
 </p>
