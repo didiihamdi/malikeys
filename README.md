@@ -5,8 +5,9 @@
 
 <br/>
 <!-- Bagian Deskripsi Diri -->
+
 * 📌 **Yo, I'm Keys**
-* 🛠️ I build private tools, automation systems, and license-managed platforms
+*🛠️ I build private tools, automation systems, and license-managed platforms
 * 💻 My work blends Luau, Lua, TypeScript, JavaScript, C, and C++
 * 🔍 I like building route tooling, native launchers, runtime helpers, and backend validation flows
 * 🚀 Most of what I ship is made for real usage, not just one-time demos
